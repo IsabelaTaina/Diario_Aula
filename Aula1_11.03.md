@@ -13,10 +13,10 @@ Todo projeto de software deve passar por três processos, sendo eles:
 
 ## Planejamento X Execução:
 
-## **Planejamento**
+### **Planejamento**
 É onde os objetivos, estratégias e metodologias serão concretizadas, derivados da análise crítica sob os requisitos definidos, portanto, o questionamento aqui se faz importante. Nessa fase é necessário todo o conhecimento técnico, domínio sobre a área e experiência.
 
-## **Execução**
+### **Execução**
 Após o planejamento é nessa etapa onde toda a estrutura do planejamento é colocada em ação, por isso, é fundamental que se tenha tudo antes planejado para sanar dúvidas e problemas durante o projeto. É nessa fase que é imprescindível a habilidade de resolver problemas em tempo real e aplicação técnica na prática.
 
 ## Verificação X Validação
