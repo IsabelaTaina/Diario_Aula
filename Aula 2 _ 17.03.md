@@ -59,7 +59,7 @@ A integração dos incrementos podem ser complexos que se não forem bem planeja
 ### Modelo Espiral
 Combina características dos modelos Cascata e Incremental, com a participação ativa do usuário. É um modelo ideal para projetos complexos.
 
-![image](https://github.com/user-attachments/assets/f9271346-7ad7-4acf-8062-4e5e5d04812b)
+<img src="https://github.com/user-attachments/assets/f9271346-7ad7-4acf-8062-4e5e5d04812b" width="300">
 
 #### Fases: 
 - **Estruturação**: Nessa fase ocorre o levantamento de requisitos e a análise de riscos.
