@@ -42,7 +42,7 @@ Embora apresente variações de nomenclatura, ele consiste em 7 principais fases
 
 Diferente do modelo Cascata que segue um sistema concreto, o modelo incremental é iterativo, isso significa que permite mudanças durante os ciclos do projeto e adaptado. 
 
-![image](https://github.com/user-attachments/assets/aefe9b3a-095f-4d16-be77-037b9166e04c)
+<img src="https://github.com/user-attachments/assets/aefe9b3a-095f-4d16-be77-037b9166e04c" width="300">
 
 #### Fases: 
 
