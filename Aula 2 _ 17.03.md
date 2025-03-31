@@ -63,6 +63,22 @@ Assim como no modelo incremental o desenvolvimento é feito em partes, mas antes
 #### Problemas: 
 O custo pode ser alto e não adaptável a projetos menores.
 
+
+### Metodologias Ágeis:
+Para resolver problemas dos modelos tradicionais, principalmente do Cascata, surgiu o **Manifesto Ágil** que propõe entregas iterativas e incrementais. 
+
+####Valores do Manifesto Ágil: 
+- **Cliente** – É mais importante interagir do que negociar contrato.
+- **Equipe** – Mais valor nas pessoas e interações do que em ferramentas.
+- **Processo** – Melhor estar aberto a mudanças do que seguir um plano rígido.
+- **Software** - Mais importante ser funcional do que ter documentação extensa.
+
+Com isso, as Metodologias Ágeis são adequadas para processos complexos por realizar entregas contínuas e ajustes frequentes. 
+
+1. **Scrum**: framework ágil que organiza os ciclos em sprints que geralmente duram de 1 a 4 semanas. Utiliza-se elementos como papeis que determinam as funções dos envolvidos, eventos que ajudam no planejamento e artefatos que auxiliam no desenvolvimento.
+2. **eXtreme Programming(XP)**: Foca na qualidade do código, com programação em pares, feedbacks contínuos e refatoração. 
+
+
 ## Referências
 - TUSKR. Software Development Life Cycle (SDLC). Disponível em: [https://tuskr.app/learn/software-development-life-cycle](https://tuskr.app/learn/software-development-life-cycle). Acesso em: 18 mar. 2025.
 - UDS. Ciclo de Vida do Software (Web). Disponível em: [https://uds.com.br/blog/ciclo-de-vida-do-software-web/](https://uds.com.br/blog/ciclo-de-vida-do-software-web/). Acesso em: 18 mar. 2025.
