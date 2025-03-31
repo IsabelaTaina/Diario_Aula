@@ -41,6 +41,18 @@ Com os incrementos finalizados é feita a junção para que o sistema funcione d
 #### Problemas: 
 A integração dos incrementos podem ser complexos que se não forem bem planejadas podem acarretar em retrabalho.
 
+### Modelo Espiral
+Combina características dos modelos Cascata e Incremental, com a participação ativa do usuário. É um modelo ideal para projetos complexos.
+
+#### Fases: 
+- **Estruturação**: Nessa fase ocorre o levantamento de requisitos e a análise de riscos.
+Assim como no modelo incremental o desenvolvimento é feito em partes, mas antes de codificar, deve-se definir o que precisa ser feito e verificar todos os possíveis problemas que podem surgir no caminho.
+- **Execução**: Diferente do Incremento, o modelo Espiral cria protótipos funcionais que evoluem a cada fase. O cliente deve validar e aprovar antes de prosseguir para o andamento.
+- **Finalização**: Após todo o desenvolvimento é novamente realizado testes para garantir que o sistema apresenta nenhuma falha ou vulnerabilidade, ademais, além do produto completo, pode ser entregue versões para avaliação mais específicas. 
+
+#### Problemas: 
+O custo pode ser alto e não adaptável a projetos menores.
+
 ## Referências
 - TUSKR. Software Development Life Cycle (SDLC). Disponível em: [https://tuskr.app/learn/software-development-life-cycle](https://tuskr.app/learn/software-development-life-cycle). Acesso em: 18 mar. 2025.
 - UDS. Ciclo de Vida do Software (Web). Disponível em: [https://uds.com.br/blog/ciclo-de-vida-do-software-web/](https://uds.com.br/blog/ciclo-de-vida-do-software-web/). Acesso em: 18 mar. 2025.
