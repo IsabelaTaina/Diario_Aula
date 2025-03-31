@@ -10,6 +10,16 @@ Nessa aula o professor solicitou um trabalho em equipe com o intuito de compreen
 
 Software Development Life Cycle (SDLC) consiste em um processo útil nas etapas de desenvolvimento de software, pois visa projetar, desenvolver e tornar o software manutenível para manter sua alta qualidade. Dessa forma, é um processo que utiliza modelos para guiar e estruturar todas as etapas de construção do software, desde a fase inicial até sua entrega.
 
+Embora apresente variações de nomenclatura, ele consiste em 7 principais fases:
+1. Levantamento de Requisitos 
+2. Análise
+3. Modelagem
+4. Codificação
+5. Teste
+6. Implantação
+7. Manutenção
+
+
 ## Modelos de Ciclo de Vida
 
 ### Modelo Cascata
