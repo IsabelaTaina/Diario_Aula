@@ -26,7 +26,7 @@ Embora apresente variações de nomenclatura, ele consiste em 7 principais fases
 
 É um dos primeiros modelos, muito utilizado, porém, por ser bem estruturado (linear e sequencial) pode apresentar algumas limitações, considerando que uma fase depende da conclusão da anterior e não é possível retornar caso haja falhas.
 
-![modelo cascata[]()](https://www.google.com/url?sa=i&url=http%3A%2F%2Fmetodologiasclassicas.blogspot.com%2Fp%2Fmodelo-em-cascata.html&psig=AOvVaw0n4d2HKPyJJG3ibIh79Tt3&ust=1743516776119000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjg-aXAtIwDFQAAAAAdAAAAABAJ)
+![modelo cascata[]()](https://metodologiasclassicas.blogspot.com/p/modelo-em-cascata.html)
 
 #### Fases: 
 - **Estruturação**: Envolve o levantamento de requisitos, análise e planejamento. Nessas fases é onde o escopo do projeto é definido e as especificações estabelecidas conforme as necessidades dos clientes.
