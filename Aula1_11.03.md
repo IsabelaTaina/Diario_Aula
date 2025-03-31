@@ -2,6 +2,7 @@
 
 Nesta primeira aula, o professor apresentou pontos fundamentais do ciclo de desenvolvimento de software e a importância de um software de qualidade.
 
+## Processos
 Todo projeto de software deve passar por três processos, sendo eles:
 
 - **Estruturação**: Nessa etapa inicial ocorre todo o planejamento e direcionamento do projeto. É a fase onde será feito o levantamento de requisitos, portanto, é uma etapa que exige atenção para não comprometer todo o ciclo de desenvolvimento. Nessa etapa, é necessário ter conhecimento da área ou contexto em que o desenvolvimento será aplicado e uma boa elicitação de requisitos para atender de forma eficaz às necessidades do usuário.
@@ -10,7 +11,7 @@ Todo projeto de software deve passar por três processos, sendo eles:
 
 - **Finalização**: É a parte final onde o projeto será entregue e o cliente pode validar (teste de aceite). É a fase que determina se os requisitos foram atendidos corretamente.
 
-# Planejamento X Execução:
+## Planejamento X Execução:
 
 ## **Planejamento**
 É onde os objetivos, estratégias e metodologias serão concretizadas, derivados da análise crítica sob os requisitos definidos, portanto, o questionamento aqui se faz importante. Nessa fase é necessário todo o conhecimento técnico, domínio sobre a área e experiência.
