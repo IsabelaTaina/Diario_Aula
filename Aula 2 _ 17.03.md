@@ -42,6 +42,8 @@ Embora apresente variações de nomenclatura, ele consiste em 7 principais fases
 
 Diferente do modelo Cascata que segue um sistema concreto, o modelo incremental é iterativo, isso significa que permite mudanças durante os ciclos do projeto e adaptado. 
 
+![image](https://github.com/user-attachments/assets/aefe9b3a-095f-4d16-be77-037b9166e04c)
+
 #### Fases: 
 
 - **Estruturação**: No modelo Incremental a fase envolve a definição do escopo do projeto, identificação dos requisitos e divisão do sistema em incrementos.
@@ -56,6 +58,8 @@ A integração dos incrementos podem ser complexos que se não forem bem planeja
 
 ### Modelo Espiral
 Combina características dos modelos Cascata e Incremental, com a participação ativa do usuário. É um modelo ideal para projetos complexos.
+
+![image](https://github.com/user-attachments/assets/f9271346-7ad7-4acf-8062-4e5e5d04812b)
 
 #### Fases: 
 - **Estruturação**: Nessa fase ocorre o levantamento de requisitos e a análise de riscos.
