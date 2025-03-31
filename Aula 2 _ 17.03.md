@@ -67,7 +67,7 @@ O custo pode ser alto e não adaptável a projetos menores.
 ### Metodologias Ágeis:
 Para resolver problemas dos modelos tradicionais, principalmente do Cascata, surgiu o **Manifesto Ágil** que propõe entregas iterativas e incrementais. 
 
-####Valores do Manifesto Ágil: 
+#### Valores do Manifesto Ágil: 
 - **Cliente** – É mais importante interagir do que negociar contrato.
 - **Equipe** – Mais valor nas pessoas e interações do que em ferramentas.
 - **Processo** – Melhor estar aberto a mudanças do que seguir um plano rígido.
