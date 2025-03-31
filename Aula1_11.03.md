@@ -10,6 +10,14 @@ Todo projeto de software deve passar por três processos, sendo eles:
 
 - **Finalização**: É a parte final onde o projeto será entregue e o cliente pode validar (teste de aceite). É a fase que determina se os requisitos foram atendidos corretamente.
 
+# Planejamento X Execução:
+
+## **Planejamento**
+É onde os objetivos, estratégias e metodologias serão concretizadas, derivados da análise crítica sob os requisitos definidos, portanto, o questionamento aqui se faz importante. Nessa fase é necessário todo o conhecimento técnico, domínio sobre a área e experiência.
+
+## **Execução**
+Após o planejamento é nessa etapa onde toda a estrutura do planejamento é colocada em ação, por isso, é fundamental que se tenha tudo antes planejado para sanar dúvidas e problemas durante o projeto. É nessa fase que é imprescindível a habilidade de resolver problemas em tempo real e aplicação técnica na prática.
+
 ## Verificação X Validação
 
 - **Verificação**: É um processo constante que acompanha e ocorre em todos os ciclos de produção do produto para assegurar que este esteja dentro da conformidade e padrão dos requisitos solicitados. Dessa forma, foca na qualidade do software produzido e se o que está sendo programado está de acordo com os requisitos. Envolve revisões e testes no código.
